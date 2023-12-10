@@ -1,10 +1,8 @@
 ### Hi there 👋, it's fernandosmither.
 
-## 🚀 About me
+## 🚀 🌌
+[https://www.youtube.com/watch?v=E94Re7mL5vs](https://www.youtube.com/watch?v=E94Re7mL5vs)
 
-#### 👨‍🎓 I'm currently an engineering student at PUC, Chile 🇨🇱 
-
-#### 📖 I really like creating and contributing to Open Source Projects that might be helpful to anyone
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
